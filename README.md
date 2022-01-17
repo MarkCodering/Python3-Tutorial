@@ -1,6 +1,10 @@
 # Python3-Tutorial
 This is an tutorial for undergraduate students in Tamkang University to learn more about computational thinking and Python programming. By completing this course, you will be able to understand the fundamental of programming and Python lauguage. In adddition, you will acquire the ability to be familiar with the Python framework like TensorFlow, Keras, and Pandas by reading its documentations.
 
+## Basic Information:
+- Author: [Mark Chen](@MarkCodering)
+- Version: 1.0
+
 ## Introduction to Python Programming and Computational Thinking
 #### Course Objectives
 The course has the following objectives:
